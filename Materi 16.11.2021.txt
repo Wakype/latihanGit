@@ -1,0 +1,31 @@
+Di dalam Tag "< / >" namanya adalah "Atribut"
+
+-------------------------------------------------------------
+
+IMG base64 adalah Image yg offline
+
+-------------------------------------------------------------
+
+<!-- Langsung Image -->
+    Yaaa langsung aja :'v
+    <img src="amongus.jpg">
+
+<!-- Menggunakan Folder     -->
+    Kalo ada di Folder pake nama foldernya.
+    <img src="Image/amongus.jpg">
+    
+<!-- Luar Folder -->
+    Kalo di luar file pake "../"
+    <img src="../Image_luar/amongus.jpg">
+  
+            *NB : Kalo mau dari luar-luar file maka tinggal kasih "../../../" aja
+
+---------------------------------------------------------------
+
+Kalo mau warnain
+
+<h1 style="color: gold; background: darkgrey;">
+ 
+              *NB : Kalo CSS pasti diakhiri dengan tanda ";"
+
+----------------------------------------------------------------

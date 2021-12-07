@@ -1,0 +1,5 @@
+Persyaratan membuat file:
+
+1. Tidak boleh ada spasi
+2. Tidak boleh diawali dengan angka 
+3. Jika ada spasi diganti dengan huruf besar
